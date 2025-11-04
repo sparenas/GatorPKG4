@@ -4,4 +4,4 @@
  devtools::install_github("Caleb-Huo/GatorPKG3")
  ## example
  f(1,2)
- collaborator's change
+ collaborator's changes
